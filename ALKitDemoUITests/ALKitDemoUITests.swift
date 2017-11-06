@@ -1,14 +1,14 @@
 //
-//  ALKitUITests.swift
-//  ALKitUITests
+//  ALKitDemoUITests.swift
+//  ALKitDemoUITests
 //
-//  Created by Cem Olcay on 22/10/15.
-//  Copyright © 2015 prototapp. All rights reserved.
+//  Created by WhatsXie on 2017/11/6.
+//  Copyright © 2017年 R.S. All rights reserved.
 //
 
 import XCTest
 
-class ALKitUITests: XCTestCase {
+class ALKitDemoUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
